@@ -1,3 +1,8 @@
+usefull resources
+https://daveceddia.com/deploy-react-express-app-heroku/
+https://medium.com/better-programming/how-to-deploy-your-react-app-to-heroku-aedc28b218ae
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
